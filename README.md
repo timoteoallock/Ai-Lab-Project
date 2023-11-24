@@ -1,4 +1,4 @@
-# Ai-Lab-Winning-Project
+# Detecting Hypoxia in Human Cells using AI
 
 ## Introduction
 This repository contains the winning project of the AI lab Course taught at Bocconi University in the spring of 2023.
@@ -13,4 +13,4 @@ The project can be summarized into three macro cathegories:
   - Unsupervised Learning
   - Supervised Learning
     
- 
+ If all this sounds interesting, feel welcomed to have a look!
