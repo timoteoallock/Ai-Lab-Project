@@ -12,5 +12,6 @@ The project can be summarized into three macro cathegories:
   - Exploratory Data Analysis
   - Unsupervised Learning
   - Supervised Learning
-    
+
+Furthermore it contains a technique to identify cell types using Community Detection Algorithms, a new approach combining PCA and LASSO that considerably reduces training time and mantains near optimal accuracy and much more.
  If all this sounds interesting, feel welcomed to have a look!
