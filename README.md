@@ -15,4 +15,4 @@ The project can be summarized into three macro cathegories:
 
 Furthermore it contains a technique to identify cell types using Community Detection Algorithms, a new feature selection approach that considerably reduces training time and mantains near optimal accuracy and much more.
 
- If all this sounds interesting, feel welcomed to have a look!
+
