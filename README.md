@@ -1,7 +1,7 @@
 # Detecting Hypoxia in Human Cells using AI
 
 ## Introduction
-This repository contains the winning project of the AI lab Course taught at Bocconi University in the spring of 2023.
+This repository contains the winning project of the AI lab Competition held at Bocconi University in the spring of 2023.
 
 It consists of an end-to-end research project aimed at detecting Hypoxia in human cells using computational approaches by analyzing their gene expression profiles. 
 
