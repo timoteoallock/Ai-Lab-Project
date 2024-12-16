@@ -7,6 +7,8 @@ It consists of an end-to-end research project aimed at detecting Hypoxia in huma
 
 In particular Hypoxia corresponds to a condition of insufficient oxygen supply that can lead to alteration in the expression of genes. In the context of cancer, it's observed primarily in the case of aggresive and rapidly progressing tumors that quickly out-grow their blood and thus oxygen supply. 
 
+Collaborators: Jan Schrewe, Arianna Feliziani, Florian Daefler, Federico Russo.
+
 ## Content
 The project can be summarized into three macro cathegories: 
   - Exploratory Data Analysis
