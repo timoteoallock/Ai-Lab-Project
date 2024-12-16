@@ -13,6 +13,6 @@ The project can be summarized into three macro cathegories:
   - Unsupervised Learning
   - Supervised Learning
 
-Furthermore it contains a technique to identify cell types using Community Detection Algorithms, a new feature selection approach that considerably reduces training time and mantains near optimal accuracy and much more.
+Furthermore it contains a technique to identify cell types using Community Detection Algorithmsa and a new feature selection approach that considerably reduces training time and mantains near optimal accuracy and much more.
 
-We presented our work at the **Italian Bioinformatics Annual Conference** in June 2024. 
+We presented our work at the **Italian Bioinformatics Annual Conference** in Trento in June 2024. 
